@@ -8,13 +8,13 @@ Den 15:e juni reserveras för individuella samtal med undervisande lärare. Till
 
 ## Avgränsningar
 
-- Även om responsive design vore att önska är det väldigt svårt att genomföra för den tänkta designen, därav ingår **inte* responsive design i denna uppgift. 
+- Även om responsive design vore att önska är det väldigt svårt att genomföra för den tänkta designen, därav ingår **inte** responsive design i denna uppgift. 
 
 # Beskrivning
 
 Denna uppgift går ut på att skapa en frontendlösning till en backend som innehåller information om böcker och dess användare. API:et innehåller både administratörer och vanliga användare, men går även att använda som icke-authentiserad användare med viss begränsning.
 
-I mappen ["wireframes"](wireframes/) så finner du ett par wireframes som dokumenterar varje sidas upplägg. Observera att alla **ej* behöver implementeras, se betygskriterir för krav, vidare ska  synliga tjänster i wireframes ingå i slutresultatet även om den färdiga designen varierar i font, styling, placering m.m..
+I mappen ["wireframes"](wireframes/) så finner du ett par wireframes som dokumenterar varje sidas upplägg. Observera att alla **ej** behöver implementeras, se betygskriterina för krav, vidare ska  synliga tjänster i wireframes ingå i slutresultatet även om den färdiga designen varierar i font, styling, placering m.m..
 
 **Observera** Valet av ramverk är friviligt men uppgiften ska lösas med antingen React, Vue eller Angular, och typescript ska användas. 
 
