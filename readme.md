@@ -25,6 +25,7 @@ I mappen ["wireframes"](wireframes/) så finner du ett par wireframes som dokume
 - Varje kodfil ska innehålla en kortare beskrivning över filens syfte. Se exempel i jwtUtil i server koden [(server/src/util/jwtUtil.js)](server/src/util/jwtUtil.js) och tänkta förbättringar.
   - För grupper är det viktigt att filen signeras med "author" som i exemplet ovan (jwtUtil).
   - Abstrakta komponenter med "uppenbart" syfte behöver ej kommenteras. Vid osäkerhet, kommentera ändå.
+- Typescript typer ska defineras, att använda any som parameter och return typ är inte tillåtet.
 
 # Förbered data
 
